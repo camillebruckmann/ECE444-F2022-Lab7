@@ -2,6 +2,9 @@
 
 ## AWS Elastic Beanstalk URL: http://mlflaskapp-env.eba-jszpzb4p.us-east-1.elasticbeanstalk.com/
 
+## API output
+![Alt text](api-output.png?raw=true "Title")
+
 ## API usage
 Send a GET request to the URL above and append "/predict"
 
